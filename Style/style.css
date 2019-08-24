@@ -13,3 +13,16 @@
 .centralizar-text{
     text-align: center;
 }
+.rodape{
+    background-color: #808080;
+    margin:0;
+}
+.rodape-st{
+    text-align: center;
+}
+.margem{
+    padding: 0 !important;
+}
+html, body {
+    margin: 0px;
+}

@@ -4,9 +4,19 @@
 .cor-conteudo{
     background-color: #C0C0C0;
 }
-.card-personagens{
-    object-fit: cover;
+.text{
+    font-family: 'Oswald', sans-serif;
 }
+.text1{
+    font-family: 'Roboto', sans-serif;
+}
+.logo{
+    font-family: 'Noto Serif', serif;
+}
+.titulo{
+    font-family: 'Nunito', sans-serif;
+}
+
 .scroll{
     overflow: auto;
 }
@@ -20,9 +30,6 @@
 .rodape-st{
     text-align: center;
 }
-.margem{
-    padding: 0 !important;
-}
-html, body {
-    margin: 0px;
+h1{
+    text-align: center;
 }
